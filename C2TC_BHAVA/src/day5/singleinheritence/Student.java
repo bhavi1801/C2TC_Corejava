@@ -40,7 +40,6 @@ package day5.singleinheritence;
 		}
 
 		
-
-		
 	}
-
+		
+	
